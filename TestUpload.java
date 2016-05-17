@@ -67,5 +67,10 @@ public class TestUpload {
 	    
 	    return Response.ok("Done").build();
 	}
-}
 
+
+public static void main(String[] args)
+{
+System.out.println("Hello");
+}
+}
