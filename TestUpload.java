@@ -1,8 +1,4 @@
-package com.user.rest;
 
-
-
-import java.io.*;
 
 import javax.ws.rs.GET;
 import javax.ws.rs.Path;
