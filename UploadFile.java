@@ -123,6 +123,6 @@ public class UploadFile {
 		 return Response.ok("File Data uploaded successfully !!").build();
 	 }
 	
-System.out.println("Ok Done   hai welcome");		
+System.out.println("Ok Done hai welcome");		
 	
 }
